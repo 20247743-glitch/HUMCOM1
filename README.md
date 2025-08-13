@@ -1,4 +1,4 @@
 # HUMCOM1
-Hello Universityu of Baguio
+Hello University of Baguio
 Welcome Student!
 This is example of a repository for HUMCOM1 class!
